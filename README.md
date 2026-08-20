@@ -4,7 +4,7 @@
 
 #  Monitoria - Programação WEB I
 
-**Repositório oficial de apoio à monitoria da disciplina de Programação WEB I**
+**Repositório de apoio à monitoria da disciplina de Programação WEB I**
 
 </div>
 
@@ -66,7 +66,7 @@ Ficou com alguma dúvida sobre os exercícios? Aproveite os horários de monitor
 
 ---
 
-## 📌 Observações finais
+## Observações finais
 
 - Este material é de uso educacional, voltado aos alunos da disciplina.
 - Sinta-se à vontade para sugerir melhorias ou apontar erros abrindo uma *issue* ou entrando em contato comigo.
