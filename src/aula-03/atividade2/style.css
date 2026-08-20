@@ -1,0 +1,17 @@
+/* Estilização pela tag */
+h1 {
+    color: blueviolet;
+}
+
+/* Estilização pelo ID */
+#title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+/* Estilização pela Classe */
+.paragrafo {
+    color: white;
+    font-style: italic;
+    background-color: black;
+}
